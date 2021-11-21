@@ -1,4 +1,9 @@
-## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/85448514?v=4" width="200" />
+## नमस्ते🙏
+[![](https://img.shields.io/badge/LinkedIn-Aarab-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/aarab-nishchal-324835222/)
+[![](https://img.shields.io/badge/Gmail-nishu@duck.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:nishu@.com)
+[![](https://img.shields.io/badge/Telegram-%40Zzcw6w-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/zzcw6w)
+
+<img align="right" src="https://avatars.githubusercontent.com/u/85448514?v=4" width="200" />
 **Losier** here a nood coder from **MARS**.
 
 <p align="left"> <a href="https://twitter.com/losier_owo" target="blank"><img src="https://img.shields.io/twitter/follow/losier_owo?logo=twitter&style=for-the-badge" alt="losier_owo" /></a> </p>
@@ -17,9 +22,7 @@
 
 - ⚡ Fun fact **I think i love hentai**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Socials
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
