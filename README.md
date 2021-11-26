@@ -39,9 +39,9 @@ Losier here a nood coder from MARS.
 
 ## Stats
 <h2 align="center">I'm too lazy...</h2>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=losier&theme=tokyonight">
-</p>
+</p> -->
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=losier&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api?username=losier&theme=tokyonight">
