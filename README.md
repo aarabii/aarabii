@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Telegram-%40Zzcw6w-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/zzcw6w)
 
 <img align="right" src="https://avatars.githubusercontent.com/u/85448514?v=4" width="200" />
-Losier here a nood coder from MARS.
+Losier here a noob coder from MARS.
 
 <p align="left"> <a href="https://twitter.com/losier_owo" target="blank"><img src="https://img.shields.io/twitter/follow/losier_owo?logo=twitter&style=for-the-badge" alt="losier_owo" /></a> </p>
 
