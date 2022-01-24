@@ -45,5 +45,5 @@ Losier here a noob coder from MARS.
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=losier&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api?username=losier&theme=tokyonight">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=losier&theme=tokyonight)
   </p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=losier)](https://github.com/anuraghazra/github-readme-stats)
