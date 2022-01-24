@@ -1,5 +1,4 @@
-## नमस्ते🙏
-<h1 align="center">Hi 👋, I'm Losier</h1>
+<h1 align="center">नमस्ते🙏, I'm Losier</h1>
 <h3 align="center">A passionate noob developer from Mars</h3>
 
 - 🔭 I’m currently working on **Too many stuff TBH**
