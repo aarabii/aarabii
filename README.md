@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **how to hack NASA using HTML**
 
-- 👯 I’m looking to collaborate on [OnlyFans](https://youtu.be/dQw4w9WgXcQ)
+- 👯 I’m looking to collaborate on **[OnlyFans](https://youtu.be/dQw4w9WgXcQ)**
 
 - 🤝 I’m looking for help with **my life**
 
 - 💬 Ask me about **anything except dating**
 
-- 📫 How to reach me **nishu@duck.com**
+- 📫 How to reach me **[using gay dating site](mailto:nishu@duck.com)**
 
 - ⚡ Fun fact **I hate cats but loves pussy <3**
 
