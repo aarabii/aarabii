@@ -25,14 +25,17 @@
 <table>
   <tbody>
     <tr>
-        <td colspan="2" align="center">
-        <img alt="losier" src="https://github-readme-stats.vercel.app/api/top-langs?username=losier&show_icons=true&locale=en&layout=compact&theme=tokyonight">
+        <td align="center">
+          <img alt="losier" src="https://github-readme-stats.vercel.app/api/top-langs?username=losier&show_icons=true&locale=en&layout=compact&theme=tokyonight">
+        </td>
+        <td align="center">
+          <a href="http://aarabnishchal.herokuapp.com/">Visit my presonal website</a>
         </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://www.storyblok.com/developers?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship">
-          <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=losier&show_icons=true&locale=en&theme=tokyonight" />
+          <img alt="Github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=losier&theme=nord_bright" />
         </a>
       </td>
       <td width="50%" align="center">
