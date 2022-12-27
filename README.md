@@ -58,7 +58,7 @@
           <img alt="losier" src="https://github-readme-stats.vercel.app/api/top-langs?username=losier&show_icons=true&locale=en&layout=compact&theme=tokyonight">
         </td>
         <td align="center">
-          <a href="https://aarab.vercel.app/">Visit my presonal website</a>
+          <a href="https://aarab.vercel.app/"><kbd>Visit my presonal website</kbd></a>
         </td>
     </tr>
     <tr>
