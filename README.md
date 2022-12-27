@@ -1,19 +1,19 @@
 <h1 align="center">नमस्ते🙏, I'm Losier</h1>
-<h3 align="center">A passionate noob developer from Mars</h3>
+<h3 align="center">A passionate human being from your mom's basement</h3>
 
-- 🔭 I’m currently working on **Too many stuff TBH**
+- 🔭 I’m currently working on **You Mom <3**
 
-- 🌱 I’m currently learning **how to hack NASA using HTML**
+- 🌱 I’m currently learning **How to hack NASA using HTML**
 
 - 👯 I’m looking to collaborate on **[OnlyFans](https://youtu.be/dQw4w9WgXcQ)**
 
-- 🤝 I’m looking for help with **my life**
+- 🤝 I’m looking for help with **My PP**
 
-- 💬 Ask me about **anything except dating**
+- 💬 Ask me about **Gay dating**
 
-- 📫 How to reach me **[using gay dating site](mailto:nishu@duck.com)**
+- 📫 How to reach me **[With you granny :)](mailto:nishu@duck.com)**
 
-- ⚡ Fun fact **I hate cats but loves pussy <3**
+- ⚡ **Guy hate cats but loves pussy <3**
 
 # Socials
 
@@ -86,7 +86,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=losier&icon=0&color=11)](https://visitcount.itsvg.in)
 
-## You can help me by Donating
+## Pay me for nothing
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/losier)
 
