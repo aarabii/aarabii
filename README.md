@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते🙏, I'm Losier</h1>
+<h1 align="center">नमस्ते🙏, I'm Caya-san</h1>
 <h3 align="center">A passionate human being from your mom's basement</h3>
 
 - 🔭 I’m currently working on **You Mom <3**
