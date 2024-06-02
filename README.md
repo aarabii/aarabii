@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते🙏, I'm Caya-san</h1>
+<h1 align="center">नमस्ते🙏, I'm Aarab Nishchal</h1>
 <h3 align="center">A passionate human being from your mom's basement</h3>
 
 - 🔭 I’m currently working on **You Mom <3**
@@ -11,18 +11,18 @@
 
 - 💬 Ask me about **Gay dating**
 
-- 📫 How to reach me **[With you granny :)](mailto:nishu@duck.com)**
+- 📫 How to reach me **[With you granny :)](mailto:aarab.nishchal@gmail.com)**
 
 - ⚡ **Guy hate cats but loves pussy <3**
 
 # Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zzcwc)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zzcwc)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aarab.ii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aarab-nishchal)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/VirtualCumm)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zzcwc)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/uwu_losier)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aarab_ii)
 
 # Languages and Tools:
 
@@ -56,7 +56,7 @@
   <tbody>
     <tr>
         <td align="center">
-          <img alt="losier" src="https://github-readme-stats.vercel.app/api/top-langs?username=losier&show_icons=true&locale=en&layout=compact&theme=tokyonight">
+          <img alt="losier" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarabii&show_icons=true&locale=en&layout=compact&theme=tokyonight">
         </td>
         <td align="center">
           <a href="https://aarab.vercel.app/"><kbd>Visit my presonal website</kbd></a>
@@ -65,11 +65,11 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://www.storyblok.com/developers?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship">
-          <img alt="Github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=losier&theme=nord_bright" />
+          <img alt="Github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarabii&theme=nord_bright" />
         </a>
       </td>
       <td width="50%" align="center">
-        <img alt="Github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=losier&theme=tokyonight" />
+        <img alt="Github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aarabii&theme=tokyonight" />
       </td>
     </tr>
   </tbody>
