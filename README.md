@@ -1,191 +1,238 @@
-<h1 align="center">नमस्ते🙏, I'm Aarab Nishchal</h1>
-<h3 align="center">A passionate human being from your mom's basement</h3>
-<div style="text-align: center;" markdown="1">
+<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=aarabii&icon=0&color=12)](https://github.com/aarabii)
+# नमस्ते 🙏, I'm **Aarab Nishchal**
 
-<p style="text-align: justify;">
-I'm a passionate developer with a love for building user-friendly web applications. Though still a student, I've gained experience with React and various back-end technologies. I'm driven by a curiosity to learn and a desire to create tools that are both fun and functional. I'm always eager to explore new technologies and collaborate with others to bring innovative ideas to life.
+### _A passionate human being crafting digital experiences..._
+
+---
+
+</div>
+
+## 👨‍💻 **About Me**
+
+> _"I build futuristic apps but can’t predict when I’ll finally submit my assignment."_
+
+I'm a passionate **full-stack developer** with a love for building user-friendly web applications. Currently pursuing my studies while gaining hands-on experience with modern web technologies. I'm driven by curiosity to learn new technologies and a desire to create tools that are both **innovative** and **functional**.
+
+---
+
+## 🚀 **What I'm Up To**
+
+<table>
+<tr>
+<td width="50%">
+
+🔭 **Currently working on**
+
+> Explaining to my parents that "my gaming laptop" is not a waste of money.
+
+🌱 **Learning**
+
+> Python, AI, and how to not cry every time a model overfits.
+
+👯 **Looking to collaborate on**
+
+> Apps that serve no real purpose but look absolutely stunning with Tailwind.
+
+</td>
+<td width="50%">
+
+🤝 **Seeking opportunities in**
+
+> Internships or jobs where I can build, break, fix, and pretend it was intentional.
+
+💬 **Ask me about**
+
+> How to turn “404: Sleep Not Found” into a functional React component.
+
+⚡ **Fun fact**
+
+> My laptop fans are louder than the applause I get from finishing some task on time.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+<p align="center">
+  <a href="https://instagram.com/aarab.ii">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/aarab-nishchal">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/aarab_ii">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://leetcode.com/u/aarabii">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://aarab.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### **Languages my code Speak**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarabii&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+</td>
+<td width="50%" align="center">
+
+### **Proof I know DSA**
+
+<img src="https://leetcard.jacoblin.cool/aarabii?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### **Journey of Making REPOs**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarabii&theme=nord_bright" alt="GitHub Profile Summary" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### **Contribution Streak**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarabii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</td>
+<td width="50%" align="center">
+
+### **Activity Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aarabii&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🎯 **Featured Projects**
+
+<div align="center">
+
+| 🌟 **Project** |         📝 **Description**          |                  🔗 **Demo**                  |
+| :------------: | :---------------------------------: | :-------------------------------------------: |
+|     **An**     |       _My Personal Portfolio_       |   [🚀 View Live](https://aarab.vercel.app/)   |
+|   **Orphia**   |      _Text to Music Generator_      |   [🎵 Try Now](https://orphia.vercel.app/)    |
+| **Ideascribe** |   _Coolest way to capture notes_    | [📝 Explore](https://ideascribe.vercel.app/)  |
+| **Craftogram** | _Instagram bio & caption generator_ | [✨ Generate](https://Craftogram.vercel.app/) |
 
 </div>
 
-# 💫 About Me:
+---
 
-- 🔭 I’m currently working on **You Mom <3**
+## 💻 **Tech Arsenal**
 
-- 🌱 I’m currently learning **How to hack NASA using HTML**
+<div align="center">
 
-- 👯 I’m looking to collaborate on **[OnlyFans](https://youtu.be/dQw4w9WgXcQ)**
+### **🔤 Programming Languages**
 
-- 🤝 I’m looking for help with **My PP**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 💬 Ask me about **Gay dating**
+### **🌐 Web Technologies**
 
-- 📫 How to reach me **[With you granny :)](mailto:aarab.nishchal@gmail.com)**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-- ⚡ **Guy hate cats but loves pussy <3**
+### **⚛️ Frameworks & Libraries**
 
-## 🌐 Socials:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<div style="text-align: center;" markdown="1">
+### **🗄️ Databases**
 
-[![Instagram](https://img.shields.io/badge/Instagram-black.svg?logo=instagram&logoColor=white)](https://instagram.com/aarab.ii)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-black.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aarab-nishchal)
-[![Reddit](https://img.shields.io/badge/Reddit-black.svg?logo=reddit&logoColor=white)](https://reddit.com/user/VirtualCumm)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aarab_ii)
-[![Leetcode](https://img.shields.io/badge/Leetcode-black.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/aarabii)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **🛠️ Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### **☁️ Hosting & Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white)
+
+### **🎨 Design & Creative**
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 </div>
 
-# 💻 Tech Stack:
+---
 
-<table>
-  <tbody>
-    <tr>
-      <th colspan="2" style="text-align: center;">Programming Languages</th>
-    </tr>
-    <tr>
-      <td align="left">
-        <img alt="Programming Languages" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-        <img alt="Programming Languages" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-        <img alt="Programming Languages" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img alt="Programming Languages" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-        <img alt="Programming Languages" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      </td>
-    </tr>
-    <tr>
-      <th colspan="2" style="text-align: center;">Web Technologies</th>
-    </tr>
-    <tr>
-      <td align="left">
-        <img alt="Web Technologies" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-        <img alt="Web Technologies" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-        <img alt="Web Technologies" src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        <img alt="Web Technologies" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img alt="Web Technologies" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <th colspan="2" style="text-align: center;">Frameworks and Libraries</th>
-    </tr>
-    <tr>
-      <td align="left">
-        <img alt="Frameworks and Libraries" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-        <img alt="Frameworks and Libraries" src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-        <img alt="Frameworks and Libraries" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-        <img alt="Frameworks and Libraries" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img alt="Frameworks and Libraries" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <th colspan="2" style="text-align: center;">Databases</th>
-    </tr>
-    <tr>
-      <td align="left">
-        <img alt="Databases" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img alt="Databases" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <th colspan="2" style="text-align: center;">Tools</th>
-    </tr>
-    <tr>
-      <td align="left">
-        <img alt="Tools" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-        <img alt="Tools" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-        <img alt="Tools" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <th colspan="2" style="text-align: center;">Hosting and Deployment</th>
-    </tr>
-    <tr>
-      <td align="left">
-        <img alt="Hosting and Deployment" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-        <img alt="Hosting and Deployment" src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-        <img alt="Hosting and Deployment" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img alt="Hosting and Deployment" src="https://img.shields.io/badge/Glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <th colspan="2" style="text-align: center;">Visualization and Design</th>
-    </tr>
-    <tr>
-      <td align="left">
-        <img alt="Visualization and Design" src="https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-        <img alt="Visualization and Design" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-        <img alt="Visualization and Design" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
-        <img alt="Visualization and Design" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <th colspan="2" style="text-align: center;">Other Tools and Technologies</th>
-    </tr>
-    <tr>
-      <td align="left">
-        <img alt="Other Tools and Technologies" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
-        <img alt="Other Tools and Technologies" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
-        <img alt="Other Tools and Technologies" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-        <img alt="Other Tools and Technologies" src="https://img.shields.io/badge/PNPM-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" />
-        <img alt="Other Tools and Technologies" src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-        <img alt="Other Tools and Technologies" src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
-        <img alt="Other Tools and Technologies" src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
-        <img alt="Other Tools and Technologies" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+## 💭 **Daily Inspiration**
 
-# 📊 Stats:
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+</div>
 
-<table>
-  <tbody>
-    <tr>
-      <td width="50%" align="center">
-        <img alt="Github language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarabii&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-      </td>
-      <td width="50%" align="center">
-        <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/aarabii?theme=dark&font=Inter&ext=heatmap" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://aarab.vercel.app/"><kbd>Visit my personal website</kbd></a>
-      </td>
-      <td width="50%" align="center">
-        <img alt="Github streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aarabii&theme=tokyonight" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://www.storyblok.com/developers?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship">
-          <img alt="Github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarabii&theme=nord_bright" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+---
 
-### ✍️ Random Dev Quote
+## 🤝 **Support My Journey**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
 
-## 💰 You can help me by Donating
+_If you find my projects helpful and want to support my work:_
 
-<table>
-  <tbody>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://www.buymeacoffee.com/aarab" target="_blank">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://patreon.com/aarab" target="_blank">
-          <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Patreon" style="height: 60px !important;width: 217px !important;" >
-        </a>
-      </td>
-    </tr>
-    </tbody>
-</table>
+<a href="https://www.buymeacoffee.com/aarab" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://patreon.com/aarab" target="_blank">
+<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron" height="60" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Let’s create something weird, useful, or weirdly useful together.** 🚀
+
+_Made with lots of ☕_
+
+</div>
