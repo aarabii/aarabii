@@ -210,19 +210,14 @@ I'm a passionate **full-stack developer** with a love for building user-friendly
 </div>
 
 ---
-
 ## 🤝 **Support My Journey**
 
 <div align="center">
 
 _If you find my projects helpful and want to support my work:_
 
-<a href="https://www.buymeacoffee.com/aarab" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://patreon.com/aarab" target="_blank">
-<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron" height="60" />
+<a href="https://github.com/sponsors/aarabii" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-FC0362?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor me on GitHub">
 </a>
 
 </div>
