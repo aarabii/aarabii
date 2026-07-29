@@ -2,7 +2,7 @@
 
 # नमस्ते 🙏, I'm **Aarab Nishchal**
 
-### _A passionate human being crafting digital experiences..._
+### _AI Engineer & Full-Stack Developer, crafting digital experiences..._
 
 ---
 
@@ -10,9 +10,9 @@
 
 ## 👨‍💻 **About Me**
 
-> _"I build futuristic apps but can’t predict when I’ll finally submit my assignment."_
+> _"I build things, break things, and occasionally fix things that weren't broken in the first place."_
 
-I'm a passionate **full-stack developer** with a love for building user-friendly web applications. Currently pursuing my studies while gaining hands-on experience with modern web technologies. I'm driven by curiosity to learn new technologies and a desire to create tools that are both **innovative** and **functional**.
+I'm an **AI Engineer & full-stack developer** based in Bhubaneswar, India, with a love for building user-friendly web applications and AI-powered tools. Currently working as an **AI Engineer Intern at Ascend HSI**, building AI-powered features and agents for internal SaaS products. I'm driven by curiosity to learn new technologies and a desire to create tools that are both **innovative** and **functional**.
 
 ---
 
@@ -69,9 +69,6 @@ I'm a passionate **full-stack developer** with a love for building user-friendly
   <a href="https://x.com/aarab_ii">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://leetcode.com/u/aarabii">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
   <a href="https://aarab.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
@@ -80,7 +77,7 @@ I'm a passionate **full-stack developer** with a love for building user-friendly
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Stats**
 
 <div align="center">
 
@@ -88,16 +85,25 @@ I'm a passionate **full-stack developer** with a love for building user-friendly
 <tr>
 <td width="50%" align="center">
 
-### **Languages my code Speak**
+### **Overall Stats**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarabii&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=aarabii&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
 </td>
 <td width="50%" align="center">
 
-### **Proof I know DSA**
+### **Languages my code Speak**
 
-<img src="https://leetcard.jacoblin.cool/aarabii?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=aarabii&layout=compact&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### **Trophy Case**
+
+<img src="https://github-trophies.vercel.app/?username=aarabii&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </td>
 </tr>
@@ -115,7 +121,7 @@ I'm a passionate **full-stack developer** with a love for building user-friendly
 
 ### **Contribution Streak**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarabii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=aarabii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </td>
 <td width="50%" align="center">
@@ -135,12 +141,12 @@ I'm a passionate **full-stack developer** with a love for building user-friendly
 
 <div align="center">
 
-| 🌟 **Project** |         📝 **Description**          |                  🔗 **Demo**                  |
-| :------------: | :---------------------------------: | :-------------------------------------------: |
-|     **An**     |       _My Personal Portfolio_       |   [🚀 View Live](https://aarab.vercel.app/)   |
-|   **Orphia**   |      _Text to Music Generator_      |   [🎵 Try Now](https://orphia.vercel.app/)    |
-| **Ideascribe** |   _Coolest way to capture notes_    | [📝 Explore](https://ideascribe.vercel.app/)  |
-| **Craftogram** | _Instagram bio & caption generator_ | [✨ Generate](https://Craftogram.vercel.app/) |
+|  🌟 **Project**   |                         📝 **Description**                          |                        🔗 **Demo**                        |
+| :----------------: | :------------------------------------------------------------------: | :----------------------------------------------------------: |
+|   **KodaArc**    |          _Terminal-native AI coding CLI with session management_          | [💻 GitHub](https://github.com/aarabii/kodaarc) |
+|  **Next Flow**   | _n8n-inspired visual workflow automation platform with AI integrations_ | [🚀 View Live](https://next-flow-automation.vercel.app/) |
+|   **TestIQ**    |    _CLI-based RAG pipeline for intelligent code analysis & test generation_    |  [💻 GitHub](https://github.com/aarabii/testiq)  |
+| **Ideascribe** |       _Block-based note-taking app with real-time sync_       | [📝 Explore](https://ideascribe.vercel.app/) |
 
 </div>
 
@@ -156,6 +162,7 @@ I'm a passionate **full-stack developer** with a love for building user-friendly
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **🌐 Web Technologies**
@@ -173,25 +180,40 @@ I'm a passionate **full-stack developer** with a love for building user-friendly
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### **🤖 AI/ML & LLM Tooling**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### **🗄️ Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **🛠️ Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### **☁️ Hosting & Deployment**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### **🎨 Design & Creative**
 
